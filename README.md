@@ -1,5 +1,5 @@
 # events
-Collection of slides of the events organized by [Databeers Tuscany](https://www.linkedin.com/company/databeers-tuscany/), sponsored by [Estrella Damm](https://twitter.com/EstrellaDammEs)
+Slides's collection from [Databeers Tuscany](https://www.linkedin.com/company/databeers-tuscany/) events, sponsored by [Estrella Damm](https://twitter.com/EstrellaDammEs)
 
 ## 17 Nov 2022 at [Murate Idea Park](https://murateideapark.it/)
 
